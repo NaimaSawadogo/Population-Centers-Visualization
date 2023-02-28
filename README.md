@@ -1,2 +1,4 @@
 # Population-Centers-Visualization
 This repository contains code for analyzing and visualizing population centers in the United States
+The data was obtained from the US Census Bureau's website, with links to Centers of Population by State for 2010 and 2020, as well as Centers of Population by County for 2020. The analysis includes the use of an API to obtain additional data. The code is written in R and is available for public use.
+It includes scripts for accessing and processing data from the U.S. Census Bureau's Centers of Population page, as well as plotting population centers on maps using the ggmap and qmplot packages in R. The repository also includes code for accessing and processing population center data by county for each state in the U.S. Overall, this repository provides tools for exploring and understanding population distribution in the United States.
